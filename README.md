@@ -9,9 +9,10 @@ I'm OyunErbabi, a passionate professional in the world of software development. 
 
 ### Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-akif-ersoy-6806a8180/)
-- 🌐 [Personal Website](https://www.oyunerbabi.com)
-- 📧 [Email](mailto:pr@oyunerbabi.com)
+- 💼 <a href="https://www.linkedin.com/in/mehmet-akif-ersoy-6806a8180/" target="_blank">LinkedIn</a>
+- 🌐 <a href="https://www.oyunerbabi.com" target="_blank">Oyun Erbabi Website</a>
+- 🌐 <a href="https://www.oesoftworks.com" target="_blank">OE Softworks Website</a>
+- 📧 <a href="mailto:pr@oyunerbabi.com" target="_blank">Email</a>
 
 Check out my GitHub profile and feel free to share your feedback on my projects! 😄
 
